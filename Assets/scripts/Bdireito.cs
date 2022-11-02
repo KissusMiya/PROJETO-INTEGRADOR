@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class botaodireito : MonoBehaviour
+public class Bdireito : MonoBehaviour
 {
     public Camera cam;
     void Update()
