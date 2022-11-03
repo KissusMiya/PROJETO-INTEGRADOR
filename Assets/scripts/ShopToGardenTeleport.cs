@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ShopToGardenTeleport : MonoBehaviour
 {
-	private Transform destination;
+	/*private Transform destination;
 
 	public bool teleport4;
 	public float distance = 0.2f;
@@ -28,5 +28,5 @@ public class ShopToGardenTeleport : MonoBehaviour
 		{
 			other.transform.position = new Vector2 (destination.position.x, destination.position.y);
 		}
-	}
+	}*/
 }
